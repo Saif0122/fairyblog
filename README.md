@@ -6,7 +6,7 @@ This is bolgger website.👍👍👍 this is just a simple of my project and in 
 
 If you like this project then don't forget to give a star.❤️❤️
 
-**URL**: 
+**URL**: https://enchantedtale.vercel.app
 
 ## How can you edit this code?
 
